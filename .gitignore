@@ -11,6 +11,7 @@ pubspec.yaml
 ###################
 /.vscode
 node_modules/
+asset/
 
 # Compiled source #
 ###################
