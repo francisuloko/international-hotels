@@ -1,53 +1,63 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Html/CSS Captstone Project
 
-> Responsive Web Design using hmtl, css, bootstrap, git and github.
+# Microverse HTML & CSS Captstone Project
 
-![screenshot](./app_screenshot.png)
+> Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
-Additional description about the project and its features.
+[![screenshot](./app_screenshot.png)]()
+
+This project involves building a responsive, mobile first, abc website for Y client.
+The project seeks to demonstrates all the technical skills learnt in the Microverse HTML 2.0 curriculum:
+
+- Setting up a new project and professional README file
+- Positioning and Floating Elements
+- Using forms
+- Building with Responsive Design
+- Working Bootstrap and
+- Using transitions and animation
+
 
 ## Built With
 
-- Html and CSS
+- HTML and CSS
 - Bootstrap v5.0
 - git and github
+
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+## Clone Repo
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps:
+
+Run the following commands in terminal:
+
+ : `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
+
+ : `cd html-css-capstone-proj`
+
+Open index.html in the project :root directory using live server
+ : `Right Click or ALT+L ALT+O`
 
 
-To get a local copy up and running follow these simple example steps.
+## Prerequisites
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+: `vscode`
+: `git`
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@francisuloko](https://github.com/francisuloko)
-- Twitter: [@francisuloko](https://twitter.com/francisuloko)
-- LinkedIn: [Francis Uloko](https://linkedin.com/in/francisuloko)
+- GitHub: [francisuloko](https://github.com/francisuloko)
+- Twitter: [francisuloko](https://twitter.com/francisuloko)
+- LinkedIn: [francisuloko](https://linkedin.com/in/francisuloko)
+
 
 ## 🤝 Contributing
 
@@ -55,16 +65,20 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse Inc.
+- 
 
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+<h1></h1>
+<p align="center">Copyright &copy; 2021. All rights reserved.</p>
