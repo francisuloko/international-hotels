@@ -2,13 +2,18 @@
 
 
 # Microverse HTML & CSS Captstone Project
+## Directry of local businesses
+### [Solo Project]
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
 [![screenshot](./app_screenshot.png)]()
 
-This project involves building a responsive, mobile first, abc website for Y client.
-The project seeks to demonstrates all the technical skills learnt in the Microverse HTML 2.0 curriculum:
+This project involves building a responsive, mobile first, local directory called TwoSteps. A local directory enables a user to find local business in their area. The web app displays the details of a registered business in two simple steps by 1.) entering a search criteria and 2.) selecting a business from the list of search results. The name of the app is derived from the number of actions (two steps) required to land on a business page.
+
+TwoSteps is a project based on [PatashuleKE](https://www.behance.net/gallery/25563385/PatashuleKE) designed by Matthew Njuguna and Sam Achola. "Patashule is a web app that bridges the gap between schools and parents" (Behance). In a similar way, twosteps bridges the gap between locals and local businesses.
+
+The project demonstrates all the technical skills learnt in the Microverse HTML 2.0 curriculum:
 
 - Setting up a new project and professional README file
 - Positioning and Floating Elements
@@ -23,6 +28,8 @@ The project seeks to demonstrates all the technical skills learnt in the Microve
 - HTML and CSS
 - Bootstrap v5.0
 - git and github
+- google fonts
+- bootstrap icons
 
 
 ## Live Demo
@@ -32,31 +39,32 @@ The project seeks to demonstrates all the technical skills learnt in the Microve
 
 ## Clone Repo
 
-To get a local copy up and running follow these simple example steps:
+To get a local copy up and running follow these simple steps:
 
-Run the following commands in terminal:
+Open terminal and run the following commands:
 
- : `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
+   `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
 
- : `cd html-css-capstone-proj`
+   `cd html-css-capstone-proj`
 
 Open index.html in the project :root directory using live server
- : `Right Click or ALT+L ALT+O`
+   
+   `Right Click or ALT+L ALT+O`
 
 
 ## Prerequisites
 
+: `browser`
 : `vscode`
 : `git`
 
+## Author
 
-## Authors
+👤 **Francis Uloko**
 
-👤 **Author1**
-
-- GitHub: [francisuloko](https://github.com/francisuloko)
-- Twitter: [francisuloko](https://twitter.com/francisuloko)
-- LinkedIn: [francisuloko](https://linkedin.com/in/francisuloko)
+- GitHub: [@francisuloko](https://github.com/francisuloko)
+- Twitter: [@francisuloko](https://twitter.com/francisuloko)
+- LinkedIn: [@francisuloko](https://linkedin.com/in/francisuloko)
 
 
 ## 🤝 Contributing
@@ -74,7 +82,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse Inc.
-- 
+- Matthew Njuguna & Sam Achola
+- [Pexels](https://www.pexels.com/)
 
 ## 📝 License
 
