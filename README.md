@@ -43,20 +43,20 @@ To get a local copy up and running follow these simple steps:
 
 Open terminal and run the following commands:
 
-   `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
+   - `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
 
-   `cd html-css-capstone-proj`
+   - `cd html-css-capstone-proj`
 
 Open index.html in the project :root directory using live server
    
-   `Right Click or ALT+L ALT+O`
+   - `Right Click or ALT+L ALT+O`
 
 
 ## Prerequisites
 
-: `browser`
-: `vscode`
-: `git`
+- `browser`
+- `vscode`
+- `git`
 
 ## Author
 

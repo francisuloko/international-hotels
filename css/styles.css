@@ -1,16 +1,131 @@
 /* global styles */
 @import url("/css/fonts/fonts.css");
 
-@font-face {
-  font-family: "roboto regular";
-  src: url("/css/fonts/Roboto/Roboto-Regular.ttf");
-}
-
-@font-face {
-  font-family: "montserrat regular";
-  src: url("/css/fonts/Montserrat/Montserrat-Regular.ttf");
+* {
+  /* border: 1px solid black; */
+  text-decoration: none;
 }
 
 body {
   font-family: "montserrat regular", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+.hero {
+  background-image: url("/img/pexels-photo-417192.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  color: white;
+}
+
+.headline {
+  font-family: "roboto bold";
+  font-size: 30px;
+  font-weight: 700;
+  text-shadow: 2px 2px black;
+}
+
+.overlay form {
+  opacity: 0.92;
+}
+
+header nav a {
+  color: white;
+  font-size: 25px;
+}
+
+a i {
+  margin: 0px 5px;
+}
+
+header a:hover {
+  color: gold;
+  text-decoration: none;
+}
+
+.getting-started p {
+  width: 300px;
+  margin: 20px auto;
+  padding-bottom: 40px;
+}
+
+.img-round {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.bg-grey {
+  background-color: rgb(161, 161, 161);
+}
+
+.bg-dark {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  background-color: black;
+  color:  #fefefe;
+
+}
+
+.value-proposition {
+  color: white;
+}
+
+.value-proposition button {
+  padding: 10px;
+  width: 200px;
+  border: 0;
+  background-color: #eee;
+  color: #333;
+}
+
+.value-proposition img {
+  margin: 30px;
+  width: 200px;
+  height: 200px;
+}
+
+.footer-logo {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  padding: 30px;
+  border: 1px solid white;
+  background-color: black;
+  font-size: 20px;
+}
+
+h4,
+.decorated-nav a {
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  /* border-bottom: 1px solid white; */
+}
+
+footer h4 {
+  font-size: 18px;
+  margin: 15px;
+}
+
+footer .input-group {
+  width: 250px;
+  margin: 5px auto;
+}
+
+.input-group input {
+  background-color: black;
+}
+
+.footer-bottom {
+  background-color: rgb(29, 29, 29);
 }
