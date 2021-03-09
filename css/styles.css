@@ -22,10 +22,6 @@ header nav a {
   font-size: 25px;
 }
 
-.decorated-nav li a {
-  padding: 0;
-}
-
 .hero {
   background-image: url("../img/cityscape.jpeg");
   background-position: center;
@@ -119,6 +115,10 @@ h4,
   margin-bottom: 0;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+.decorated-nav li a {
+  padding: 0;
 }
 
 header a:hover {
