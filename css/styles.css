@@ -25,7 +25,7 @@ header nav a {
 }
 
 .hero {
-  background-image: url("/img/pexels-photo-417192.jpeg");
+  background-image: url("./img/pexels-photo-417192.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
