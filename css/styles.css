@@ -1,10 +1,8 @@
-/* global styles */
 @import url("/css/fonts/fonts.css");
 
 * {
   text-decoration: none;
   box-sizing: border-box;
-  /* border: 1px solid red; */
 }
 
 body {
@@ -29,7 +27,8 @@ header nav a {
   background-position: cover;
   background-repeat: no-repeat;
   height: 120vh;
-  width: 100%;
+  max-width: 100%;
+  background-size: cover;
   color: white;
 }
 
@@ -91,7 +90,7 @@ footer {
   color: #333;
 }
 
-.value-proposition  div img {
+.value-proposition div img {
   margin: 30px;
   width: 250px;
   height: 250px;
@@ -100,6 +99,11 @@ footer {
 .decorated-nav {
   border-top: 0 solid #000;
   border-bottom: 1px solid #000;
+}
+
+.decorated-nav li {
+  margin: 0;
+  padding: 2px;
 }
 
 h4,
