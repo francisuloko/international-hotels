@@ -22,9 +22,13 @@ header nav a {
   font-size: 25px;
 }
 
+.decorated-nav li a {
+  padding: 0;
+}
+
 .hero {
   background-image: url("../img/cityscape.jpeg");
-  background-position: cover;
+  background-position: center;
   background-repeat: no-repeat;
   height: 120vh;
   max-width: 100%;
@@ -103,7 +107,7 @@ footer {
 
 .decorated-nav li {
   margin: 0;
-  padding: 2px;
+  padding: 4px;
 }
 
 h4,
@@ -174,8 +178,7 @@ footer .input-group {
   color: #aaa;
 }
 
-.red-bg { background-color: rgb(212, 87, 74); } 
+.red-bg { background-color: rgb(212, 87, 74); }
 .blue-bg { background-color: rgb(81, 156, 216); }
 .gray-bg { background-color: rgb(230, 230, 230); }
 .yellow-bg { background-color: rgb(230, 172, 91); }
-
