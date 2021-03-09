@@ -21,7 +21,7 @@
                 <div class="px-3">
                     <a class="d-flex" href="#">
                         <i class="bi bi-eye-fill"></i>
-                        <span class="d-none d-lg-inline">Discover</span>
+                        <span class="d-none d-xl-inline">Discover</span>
                     </a>
                 </div>
                 <div class="px-3">
@@ -45,13 +45,14 @@
             </nav>
         </header>
         <main>
-            <section class="filter-section bg-light mt-5 py-5 d-flex flex-column align-items-center justify-content-center">
-                <h2 class="w-50 mx-auto py-3">Filter by name, category, country, state:</h2>
-                <form class="row gap-3 align-items-center">
-                    <div class="col-auto mx-1">
+            <section class="filters-section bg-light mt-5 mb-2 p-4 shadow-sm">
+                <h2 class="d-none fs-6 text-center">Filter by name, category, country, state:</h2>
+                <p class="d-md-none text-center">Filter by name, category, country, state:</p>
+                <form class="form">
+                    <div class="m-1">
                         <input type="text" class="form-control" id="autoSizingInput" placeholder="Name">
                     </div>
-                    <div class="col-auto">
+                    <div class="m-1">
                         <select class="form-select form-control" id="autoSizingSelect">
                         <option selected>Category</option>
                         <option value="1">One</option>
@@ -59,7 +60,7 @@
                         <option value="3">Three</option>
                         </select>
                     </div>
-                    <div class="col-auto">
+                    <div class="m-1">
                         <select class="form-select form-control" id="autoSizingSelect">
                         <option selected>Country</option>
                         <option value="1">One</option>
@@ -67,7 +68,7 @@
                         <option value="3">Three</option>
                         </select>
                     </div>
-                    <div class="col-auto">
+                    <div class="m-1">
                         <select class="form-select form-control" id="autoSizingSelect">
                         <option selected>State/City</option>
                         <option value="1">One</option>
@@ -75,13 +76,63 @@
                         <option value="3">Three</option>
                         </select>
                     </div>
-                    <div class="col-auto">
-                        <button type="submit" class="btn btn-primary">Submit</button>
+                    <div class="m-1">
+                        <button type="submit" class="btn btn-primary w-100">Search</button>
                     </div>
-                    <div class="col-auto">
-                        <button type="submit" class="btn btn-warning">Clear filters</button>
+                    <div class="m-1">
+                        <button type="submit" class="btn btn-warning w-100">Clear filters</button>
                     </div>
                 </form>
+            </section>
+            <section class="search-results bg-lght py-1">
+                <h2 class="d-none d-md-block p-2 text-center">Search result found 7 businesses:</h2>
+                <p class="d-md-none p-2 text-center">Search result found 7 businesses:</p>
+                <div class="business-list">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
+                            <div class="biz-card p-0 border m-2 rounded shadow">
+                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
+                                <div class="caption p-2">
+                                    <h5 class="m-0">Name</h5>
+                                    <p class="m-0">Location</p>
+                                    <p class="m-0">Description</p>
+                                    <p class="text-center p-0 my-1">
+                                        <a href="details.html" class="text-primary">View more details</a>
+                                    </p>
+                                </div> <!-- End of biz-card -->
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-4">
+                            <div class="biz-card p-0 border m-2 rounded shadow">
+                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
+                                <div class="caption p-2">
+                                    <h5 class="m-0">Name</h5>
+                                    <p class="m-0">Location</p>
+                                    <p class="m-0">Description</p>
+                                    <p class="text-center p-0 my-1">
+                                        <a href="details.html" class="text-primary">View more details</a>
+                                    </p>
+                                </div> <!-- End of biz-card -->
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6 col-lg-4">
+                            <div class="biz-card p-0 border m-2 rounded shadow">
+                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
+                                <div class="caption p-2">
+                                    <h5 class="m-0">Name</h5>
+                                    <p class="m-0">Location</p>
+                                    <p class="m-0">Description</p>
+                                    <p class="text-center p-0 my-1">
+                                        <a href="details.html" class="text-primary">View more details</a>
+                                    </p>
+                                </div> <!-- End of biz-card -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center align-items-center mx-5 p-3">
+                    <a href="#" class="text-primary">Show More...</a>
+                </div>
             </section>
         </main>
         <footer class="pt-5">
