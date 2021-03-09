@@ -2,7 +2,7 @@
 
 
 # Microverse HTML & CSS Captstone Project
-## Directry of local businesses
+## TwoSteps, A Directry of Local Businesses
 ### [Solo Project]
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
