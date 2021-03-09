@@ -2,8 +2,9 @@
 @import url("/css/fonts/fonts.css");
 
 * {
-  /* border: 1px solid black; */
   text-decoration: none;
+
+  /* border: 1px solid red; */
 }
 
 body {
@@ -12,6 +13,15 @@ body {
 
 a {
   color: white;
+}
+
+a i {
+  margin: 0 10px;
+}
+
+header nav a {
+  color: white;
+  font-size: 25px;
 }
 
 .hero {
@@ -24,40 +34,22 @@ a {
 }
 
 .headline {
-  font-family: "roboto bold";
-  font-size: 30px;
-  font-weight: 700;
-  text-shadow: 2px 2px black;
-}
-
-.overlay form {
-  opacity: 0.92;
-}
-
-header nav a {
-  color: white;
+  font-family: "roboto bold", Verdana, Geneva, Tahoma, sans-serif;
   font-size: 25px;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px black;
 }
 
-a i {
-  margin: 0px 5px;
-}
-
-header a:hover {
-  color: gold;
-  text-decoration: none;
+.getting-started,
+.subscribe-section {
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .getting-started p {
   width: 300px;
   margin: 20px auto;
   padding-bottom: 40px;
-}
-
-.img-round {
-  width: 200px;
-  height: 200px;
-  border-radius: 100%;
 }
 
 .bg-grey {
@@ -71,8 +63,7 @@ header a:hover {
 
 footer {
   background-color: black;
-  color:  #fefefe;
-
+  color: #aaa;
 }
 
 .value-proposition {
@@ -93,23 +84,47 @@ footer {
   height: 200px;
 }
 
-.footer-logo {
-  border-radius: 100%;
-  width: 40px;
-  height: 40px;
-  padding: 30px;
-  border: 1px solid white;
-  background-color: black;
-  font-size: 20px;
+.decorated-nav {
+  border-top: 0 solid #000;
+  border-bottom: 1px solid #000;
 }
 
 h4,
 .decorated-nav a {
   font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 13px;
+  color: #aaa;
+  padding-bottom: 0;
+  margin-bottom: 0;
   font-weight: 600;
   text-transform: uppercase;
-  /* border-bottom: 1px solid white; */
+}
+
+header a:hover {
+  color: gold;
+  text-decoration: none;
+}
+
+.decorated-nav a:hover {
+  color: #fff;
+}
+
+@media (min-width: 768px) {
+  .decorated-nav {
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+  }
+}
+
+.opac {
+  opacity: 0.9;
+}
+
+.footer-logo {
+  padding: 25px;
+  border: 1px solid white;
+  background-color: black;
+  font-size: 20px;
 }
 
 footer h4 {
