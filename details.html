@@ -45,97 +45,60 @@
             </nav>
         </header>
         <main>
-            <section class="filters-section bg-light mt-5 mb-2 p-5 shadow-sm">
-                <div class="py-5">
-                    <h2 class="d-none d-md-block text-center">Filter by name, category, country, state:</h2>
-                <p class="d-md-none text-center">Filter by name, category, country, state:</p>
-                <form class="form container">
+            <section class="summary py-5">
+                <div class="container justify-content-center">
                     <div class="row">
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <input type="text" class="form-control" id="autoSizingInput" placeholder="Name">
+                        <div class="col">
+                            <div class="container px-0 mx-0 shadow p-4">
+                                <div class="row px-0 mx-0 details">
+                                    <h2 class="col-sm-12 text-danger"><i class="bi bi-shop"></i> Name</h2>
+                                    <div class="col-sm-12 col-md-6">TYPE: Hotel</div>
+                                    <div class="col-sm-12 col-md-6">RATING: Five Star</div>
+                                    <div class="col-sm-12 col-md-6">REVIEW: 10+</div>
+                                    <div class="col-sm-12 col-md-6">STATUS: Open</div>
+                                    <div class="col-sm-12 col-md-6">DAYS: Mon - Sun</div>
+                                    <div class="col-sm-12 col-md-6">HOURS: 24/7</div>
+                                </div>
+                                <div class="row p-3">
+                                    <p class="col text-md-right px-0">
+                                        <a class="btn bg-primary text-white px-2 py-1" href="#"><i class="bi bi-envelope-fill"></i> Message</a>
+                                    </p>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 d-flex justify-content-between mx-0 contact">
+                                        <div class="">
+                                            <span><i class="bi bi-telephone-fill"></i> TEL:</span>
+                                            <span class="text-primary">+123456</span>
+                                        </div>
+                                        <div class="">
+                                            <span><i class="bi bi-globe"></i> WEBSITE:</span>
+                                            <span class="text-primary">www.twosteps.com</span>
+                                        </div>
+                                        <div class="">
+                                            <span>STAFF:</span>
+                                            <span class="text-primary">10+</span>
+                                        </div>
+                                        <div class="">
+                                            <span>SUPPORT:</span>
+                                            <span class="text-primary">YES</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <p class="about my-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet non ex quam ipsum facilis, nostrum maiores, quaerat quia alias maxime cupiditate tempore officia dignissimos! Sapiente pariatur dicta, doloribus, neque dolorum ducimus repudiandae aspernatur a culpa vitae voluptates, consequatur at labore.</p>
                         </div>
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <select class="form-select form-control" id="autoSizingSelect">
-                            <option selected>Category</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            </select>
-                        </div>
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <select class="form-select form-control" id="autoSizingSelect">
-                            <option selected>Country</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            </select>
-                        </div>
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <select class="form-select form-control" id="autoSizingSelect">
-                            <option selected>State/City</option>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            </select>
-                        </div>
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <button type="submit" class="btn btn-primary w-100">Search</button>
-                        </div>
-                        <div div class="col-sm-12 col-md-2 p-1">
-                            <button type="submit" class="btn btn-warning w-100">Clear</button>
-                        </div>
+                        <a class="btn bg-light w-100 p-3 px-4 border-0 text-dark text-left" href="#">
+                            <i class="bi bi-eye-fill"></i> CLICK TO VIEW MORE DETAILS.
+                        </a>
                     </div>
-                </form>
                 </div>
             </section>
-            <section class="search-results bg-lght py-1">
-                <h2 class="d-none d-md-block p-2 text-center">Search result found 7 businesses:</h2>
-                <p class="d-md-none p-2 text-center">Search result found 7 businesses:</p>
-                <div class="business-list container">
-                    <div class="row">
-                        <div class="col-sm-12 col-md-6 col-lg-4">
-                            <div class="biz-card p-0 border m-2 rounded shadow">
-                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
-                                <div class="caption p-2">
-                                    <h5 class="m-0">Name</h5>
-                                    <p class="m-0">Location</p>
-                                    <p class="m-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente, doloremque!</p>
-                                    <p class="text-center p-0 my-1">
-                                        <a href="details.html" class="text-primary">View more details</a>
-                                    </p>
-                                </div> <!-- End of biz-card -->
-                            </div>
-                        </div>
-                        <div class="col-sm-12 col-md-6 col-lg-4">
-                            <div class="biz-card p-0 border m-2 rounded shadow">
-                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
-                                <div class="caption p-2">
-                                    <h5 class="m-0">Name</h5>
-                                    <p class="m-0">Location</p>
-                                    <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, mollitia?</p>
-                                    <p class="text-center p-0 my-1">
-                                        <a href="details.html" class="text-primary">View more details</a>
-                                    </p>
-                                </div> <!-- End of biz-card -->
-                            </div>
-                        </div>
-                        <div class="col-sm-12 col-md-6 col-lg-4">
-                            <div class="biz-card p-0 border m-2 rounded shadow">
-                                <img class="img-fluid w-100 rounded" src="img/hotel-almirante-cartagena-exterior.jpg" alt="sample-image">
-                                <div class="caption p-2">
-                                    <h5 class="m-0">Name</h5>
-                                    <p class="m-0">Location</p>
-                                    <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, a?</p>
-                                    <p class="text-center p-0 my-1">
-                                        <a href="details.html" class="text-primary">View more details</a>
-                                    </p>
-                                </div> <!-- End of biz-card -->
-                            </div>
-                        </div>
+            <section class="map text-center">
+                <h2 class="text-danger"><i class="bi bi-geo-alt-fill"></i> MAP DIRECTIONS</h2>
+                <div class="container mt-4">
+                    <div class="row justify-content-center">
+                        <img class="w-100" src="img/google-maps-multiple-locations.png" alt="">
                     </div>
-                </div>
-                <div class="d-flex justify-content-center align-items-center mx-5 p-3">
-                    <a href="#" class="text-primary">Show More...</a>
                 </div>
             </section>
         </main>
@@ -212,7 +175,6 @@
             </nav>
         </footer>
     </div>
-
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
