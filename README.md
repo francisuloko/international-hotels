@@ -34,7 +34,7 @@ The project demonstrates all the technical skills learnt in the Microverse HTML 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://francisuloko.github.io/html-css-capstone-proj/)
 
 
 ## Clone Repo
