@@ -91,7 +91,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [Behance](https://www.behance.net/gallery/25563385/PatashuleKE) licensed.
+This project is [MIT](https://mit-license.org/) licensed.
 
 <h1></h1>
 <p align="center">Copyright &copy; 2021. All rights reserved.</p>
