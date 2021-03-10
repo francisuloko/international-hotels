@@ -7,15 +7,8 @@
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
-![screenshot](./img/screenshots/main-mobile.jpeg)
-[![screenshot](./img/screenshots/main-medium.jpeg)]()
-[![screenshot](./img/screenshots/main-large.jpeg)]()
-[![screenshot](./img/screenshots/search-result-mobile.jpeg)]()
-[![screenshot](./img/screenshots/search-result-medium.jpeg)]()
-[![screenshot](./img/screenshots/search-result-large.jpeg)]()
-[![screenshot](./img/screenshots/details-mobile.jpeg)]()
-[![screenshot](./img/screenshots/details-medium.jpeg)]()
-[![screenshot](./img/screenshots/details-large.jpeg)]()
+## Screenshots
+** Please, kindly see below **
 
 
 This project involves building a responsive, mobile first, Hotel directory called TwoSteps. This history directory enables a user to find hotels around the world. The web app displays the details of a registered hotel in two simple steps by 1.) entering a search criteria and 2.) selecting a hotel from the list of search results. The name of the app is derived from the number of actions (two steps) required to land on a hotel's page.
@@ -99,6 +92,17 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+<h1></h1>
+![screenshot](./img/screenshots/main-mobile.jpeg)
+[![screenshot](./img/screenshots/main-medium.jpeg)]()
+[![screenshot](./img/screenshots/main-large.jpeg)]()
+[![screenshot](./img/screenshots/search-result-mobile.jpeg)]()
+[![screenshot](./img/screenshots/search-result-medium.jpeg)]()
+[![screenshot](./img/screenshots/search-result-large.jpeg)]()
+[![screenshot](./img/screenshots/details-mobile.jpeg)]()
+[![screenshot](./img/screenshots/details-medium.jpeg)]()
+[![screenshot](./img/screenshots/details-large.jpeg)]()
 
 <h1></h1>
 <p align="center">Copyright &copy; 2021. All rights reserved.</p>
