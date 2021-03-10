@@ -11,7 +11,6 @@
 
 [![screenshot](./img/screenshots/main-large-copy.jpeg)]()
 
-** For more screenshots, please see end of file **
 
 This project involves building a responsive, mobile first, Hotel directory called TwoSteps. This history directory enables a user to find hotels around the world. The web app displays the details of a registered hotel in two simple steps by 1.) entering a search criteria and 2.) selecting a hotel from the list of search results. The name of the app is derived from the number of actions (two steps) required to land on a hotel's page.
 
@@ -74,7 +73,7 @@ Open index.html in the project :root directory using live server
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/francisuloko/html-css-capstone-proj/issues).
 
 
 ## Show your support
@@ -92,7 +91,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [Behance](https://www.behance.net/gallery/25563385/PatashuleKE) licensed.
 
 <h1></h1>
 <p align="center">Copyright &copy; 2021. All rights reserved.</p>
