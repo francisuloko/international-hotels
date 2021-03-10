@@ -7,17 +7,6 @@
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
-[![screenshot](./img/results/main-mobile.jpeg)]()
-[![screenshot](./img/results/main-medium.jpeg)]()
-[![screenshot](./img/results/main-large.jpeg)]()
-[![screenshot](./img/results/search-result-mobile.jpeg)]()
-[![screenshot](./img/results/search-result-medium.jpeg)]()
-[![screenshot](./img/results/search-result-large.jpeg)]()
-[![screenshot](./img/results/details-mobile.jpeg)]()
-[![screenshot](./img/results/details-medium.jpeg)]()
-[![screenshot](./img/results/details-large.jpeg)]()
-
-
 This project involves building a responsive, mobile first, Hotel directory called TwoSteps. This history directory enables a user to find hotels around the world. The web app displays the details of a registered hotel in two simple steps by 1.) entering a search criteria and 2.) selecting a hotel from the list of search results. The name of the app is derived from the number of actions (two steps) required to land on a hotel's page.
 
 TwoSteps is a project based on [PatashuleKE](https://www.behance.net/gallery/25563385/PatashuleKE) designed by Matthew Njuguna and Sam Achola. "Patashule is a web app that bridges the gap between schools and parents" (Behance). In a similar way, twosteps bridges the gap between people on transit and hotels around the world.
@@ -40,6 +29,9 @@ The project demonstrates all the technical skills learnt in the Microverse HTML 
 - google fonts
 - bootstrap icons
 
+
+## Screenshots
+** Please, kindly see below **
 
 ## Live Demo
 
@@ -99,6 +91,16 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+[![screenshot](./img/screenshots/main-mobile.jpeg)]()
+[![screenshot](./img/screenshots/main-medium.jpeg)]()
+[![screenshot](./img/screenshots/main-large.jpeg)]()
+[![screenshot](./img/screenshots/search-result-mobile.jpeg)]()
+[![screenshot](./img/screenshots/search-result-medium.jpeg)]()
+[![screenshot](./img/screenshots/search-result-large.jpeg)]()
+[![screenshot](./img/screenshots/details-mobile.jpeg)]()
+[![screenshot](./img/screenshots/details-medium.jpeg)]()
+[![screenshot](./img/screenshots/details-large.jpeg)]()
 
 <h1></h1>
 <p align="center">Copyright &copy; 2021. All rights reserved.</p>
