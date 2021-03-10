@@ -94,15 +94,5 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](lic.url) licensed.
 
-[![screenshot](./img/screenshots/main-mobile.jpeg)]()
-[![screenshot](./img/screenshots/main-medium.jpeg)]()
-[![screenshot](./img/screenshots/main-large.jpeg)]()
-[![screenshot](./img/screenshots/search-result-mobile.jpeg)]()
-[![screenshot](./img/screenshots/search-result-medium.jpeg)]()
-[![screenshot](./img/screenshots/search-result-large.jpeg)]()
-[![screenshot](./img/screenshots/details-mobile.jpeg)]()
-[![screenshot](./img/screenshots/details-medium.jpeg)]()
-[![screenshot](./img/screenshots/details-large.jpeg)]()
-
 <h1></h1>
 <p align="center">Copyright &copy; 2021. All rights reserved.</p>
