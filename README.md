@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-[![screenshot]("./img/screenshots/main-large-copy.jpeg")]()
+[![screenshot](./img/screenshots/main-large-copy.jpeg)]()
 
 ** For more screenshots, please see end of file **
 
