@@ -172,13 +172,10 @@ footer .input-group {
   text-align: center;
 }
 
-.social-icons i,
-.copyright {
-  margin: 0 5px;
-  color: #aaa;
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
-
-.red-bg { background-color: rgb(212, 87, 74); }
-.blue-bg { background-color: rgb(81, 156, 216); }
-.gray-bg { background-color: rgb(230, 230, 230); }
-.yellow-bg { background-color: rgb(230, 172, 91); }
