@@ -7,7 +7,7 @@
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
-[![screenshot](./img/results/main-mobile.jpeg)]()
+![screenshot](./img/results/main-mobile.jpeg)
 [![screenshot](./img/results/main-medium.jpeg)]()
 [![screenshot](./img/results/main-large.jpeg)]()
 [![screenshot](./img/results/search-result-mobile.jpeg)]()
