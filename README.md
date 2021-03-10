@@ -7,7 +7,16 @@
 
 > Responsive Web Design Project built with HTML & CSS, Bootstrap, Git and Github
 
-[![screenshot](./app_screenshot.png)]()
+[![screenshot](./img/results/main-mobile.jpeg)]()
+[![screenshot](./img/results/main-medium.jpeg)]()
+[![screenshot](./img/results/main-large.jpeg)]()
+[![screenshot](./img/results/search-result-mobile.jpeg)]()
+[![screenshot](./img/results/search-result-medium.jpeg)]()
+[![screenshot](./img/results/search-result-large.jpeg)]()
+[![screenshot](./img/results/details-mobile.jpeg)]()
+[![screenshot](./img/results/details-medium.jpeg)]()
+[![screenshot](./img/results/details-large.jpeg)]()
+
 
 This project involves building a responsive, mobile first, Hotel directory called TwoSteps. This history directory enables a user to find hotels around the world. The web app displays the details of a registered hotel in two simple steps by 1.) entering a search criteria and 2.) selecting a hotel from the list of search results. The name of the app is derived from the number of actions (two steps) required to land on a hotel's page.
 
@@ -41,7 +50,7 @@ The project demonstrates all the technical skills learnt in the Microverse HTML 
 
 To get a local copy up and running follow these simple steps:
 
-Open terminal and run the following commands:
+Open terminal or command line and run the following commands:
 
    - `git clone git@github.com:francisuloko/html-css-capstone-proj.git`
 
@@ -82,6 +91,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse Inc.
+- Coding Partner, Carlos Osorio
+- My StandUp Team
 - Matthew Njuguna & Sam Achola
 - [Pexels](https://www.pexels.com/)
 
