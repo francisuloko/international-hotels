@@ -92,8 +92,7 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](lic.url) licensed.
 
-<h1></h1>
-![screenshot](./img/screenshots/main-mobile.jpeg)
+[![screenshot](./img/screenshots/main-mobile.jpeg)]()
 [![screenshot](./img/screenshots/main-medium.jpeg)]()
 [![screenshot](./img/screenshots/main-large.jpeg)]()
 [![screenshot](./img/screenshots/search-result-mobile.jpeg)]()
