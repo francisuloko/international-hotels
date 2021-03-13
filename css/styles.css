@@ -1,0 +1,181 @@
+@import url("/css/fonts/fonts.css");
+
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "montserrat regular", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: white;
+}
+
+a i {
+  margin: 0 10px;
+}
+
+header nav a {
+  color: white;
+  font-size: 25px;
+}
+
+.hero {
+  background-image: url("../img/cityscape.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 120vh;
+  max-width: 100%;
+  background-size: cover;
+  color: white;
+}
+
+.dark-cover {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.4;
+}
+
+.headline {
+  font-family: "roboto bold", Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+  z-index: 8;
+}
+
+.hero-content,
+.btn {
+  z-index: 7;
+}
+
+.getting-started,
+.subscribe-section {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.getting-started p {
+  width: 300px;
+  margin: 20px auto;
+  padding-bottom: 40px;
+}
+
+.bg-grey {
+  background-color: rgb(161, 161, 161);
+}
+
+.bg-dark {
+  background-color: black;
+  color: white;
+}
+
+footer {
+  background-color: black;
+  color: #aaa;
+}
+
+.value-proposition {
+  color: white;
+}
+
+.value-proposition button {
+  padding: 10px;
+  width: 200px;
+  border: 0;
+  background-color: #eee;
+  color: #333;
+}
+
+.value-proposition div img {
+  margin: 30px;
+  width: 250px;
+  height: 250px;
+}
+
+.decorated-nav {
+  border-top: 0 solid #000;
+  border-bottom: 1px solid #000;
+}
+
+.decorated-nav li {
+  margin: 0;
+  padding: 4px;
+}
+
+h4,
+.decorated-nav a {
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 12px;
+  color: #aaa;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.decorated-nav li a {
+  padding: 0;
+}
+
+header a:hover {
+  color: gold;
+  text-decoration: none;
+}
+
+.decorated-nav a:hover {
+  color: #fff;
+}
+
+@media (min-width: 768px) {
+  .decorated-nav {
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+  }
+}
+
+.opacity-9 {
+  opacity: 0.9;
+}
+
+.footer-logo {
+  padding: 25px;
+  border: 1px solid white;
+  background-color: black;
+  font-size: 20px;
+}
+
+footer h4 {
+  font-size: 18px;
+  margin: 15px;
+}
+
+footer .input-group {
+  width: 250px;
+  margin: 5px auto;
+}
+
+.input-group input {
+  background-color: black;
+}
+
+.footer-bottom {
+  background-color: rgb(34, 31, 31);
+}
+
+.details div {
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}

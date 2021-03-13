@@ -1,0 +1,40 @@
+## button text
+
+## link text
+
+## block text
+
+## Images
+background Images
+
+## steps icon
+<i class="bi bi-search"></i> Search
+<i class="bi bi-geo-alt-fill"></i> Locate
+<i class="bi bi-map-fill"></i> Locate
+<i class="bi bi-info-circle-fill"></i> Info
+<i class="bi bi-telephone-outbound-fill"></i> Contact
+
+1. Hotel
+Hotel Almirante Cartagena Colombia (5 Estrellas)
+Mapa -Av. San Martin Calle 6 - Cartagena de Indias - 130001 - Bolívar - Colombia
+2. School
+3. Restaurant
+4. Cinema
+5. 
+6.
+
+
+
+business details
+1. name
+2. location
+3. address
+4. contact - email, phone, social
+5. picture
+6. rating
+
+value proposition
+1. large collection of listings
+2. Rating
+3. convenient
+
